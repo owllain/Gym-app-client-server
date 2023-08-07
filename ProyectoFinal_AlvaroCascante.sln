@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{B27438BE-DE4B-48FD-B852-841CA4C028C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servidor", "Servidor\Servidor.csproj", "{573ED6E5-3D7E-4B8F-9C60-90164EFFBCCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{56A4C81E-4FAB-4A98-8551-50283375D472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27438BE-DE4B-48FD-B852-841CA4C028C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27438BE-DE4B-48FD-B852-841CA4C028C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27438BE-DE4B-48FD-B852-841CA4C028C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27438BE-DE4B-48FD-B852-841CA4C028C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573ED6E5-3D7E-4B8F-9C60-90164EFFBCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573ED6E5-3D7E-4B8F-9C60-90164EFFBCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573ED6E5-3D7E-4B8F-9C60-90164EFFBCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573ED6E5-3D7E-4B8F-9C60-90164EFFBCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A4C81E-4FAB-4A98-8551-50283375D472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A4C81E-4FAB-4A98-8551-50283375D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A4C81E-4FAB-4A98-8551-50283375D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A4C81E-4FAB-4A98-8551-50283375D472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B74F2D-2CDD-4E82-9086-74E154526D99}
+	EndGlobalSection
+EndGlobal
